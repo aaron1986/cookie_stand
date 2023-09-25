@@ -1,0 +1,17 @@
+2023-09-25 13:27:53.130 [info] update#setState idle
+2023-09-25 13:28:22.587 [info] update#setState checking for updates
+2023-09-25 13:28:22.588 [info] update#setState idle
+2023-09-25 13:31:01.999 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 7267]: crashed with code 15 and reason 'killed'
+2023-09-25 13:31:07.008 [info] Extension host with pid 7288 exited with code: 0, signal: unknown.
+2023-09-25 14:28:22.591 [info] update#setState checking for updates
+2023-09-25 14:28:22.609 [info] update#setState idle
+2023-09-25 15:28:22.655 [info] update#setState checking for updates
+2023-09-25 15:28:22.667 [info] update#setState idle
+2023-09-25 16:28:22.670 [info] update#setState checking for updates
+2023-09-25 16:28:22.675 [info] update#setState idle
+2023-09-25 17:28:22.684 [info] update#setState checking for updates
+2023-09-25 17:28:22.685 [info] update#setState idle
+2023-09-25 18:28:22.784 [info] update#setState checking for updates
+2023-09-25 18:28:22.792 [info] update#setState idle
+2023-09-25 19:28:22.889 [info] update#setState checking for updates
+2023-09-25 19:28:22.891 [info] update#setState idle

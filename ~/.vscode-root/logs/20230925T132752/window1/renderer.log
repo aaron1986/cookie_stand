@@ -1,0 +1,20 @@
+2023-09-25 13:28:00.720 [info] [perf] Render performance baseline is 148ms
+2023-09-25 13:28:01.620 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-25 13:28:01.621 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-25 13:28:01.626 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-25 13:28:01.626 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-25 13:28:01.635 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-25 13:28:01.636 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-25 13:28:01.636 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-25 13:28:01.637 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-25 13:31:00.958 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2023-09-25 13:31:01.818 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/user/webpages_tech/cookie_stand/index.html 
+2023-09-25 13:31:04.610 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-25 13:31:04.661 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-25 13:31:04.670 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-25 13:31:04.672 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-25 13:31:04.685 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-25 13:31:04.688 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-25 13:31:04.688 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-25 13:31:04.689 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-25 13:31:07.410 [info] [perf] Render performance baseline is 149ms
