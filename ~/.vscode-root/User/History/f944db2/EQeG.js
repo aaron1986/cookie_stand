@@ -186,6 +186,7 @@ function createShopLocation(locationData) {
     const ul = document.createElement("ul");
     for(let i = 0; i < locationData.customersPerHour.length; i++) {
         const li = document.createElement("li");
+        //li.textContent = locationData.customersPerHour[i] + " cookies";
         li.textContent =`${Hours[i]}: ${locationData.customersPerHour[i]} cookies`;
         ul.appendChild(li);
     }
