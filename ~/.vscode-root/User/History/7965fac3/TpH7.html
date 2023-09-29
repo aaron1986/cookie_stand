@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <script src="./app.js" defer></script>
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <video autoplay muted loop>
+            <source src="./vid/salmon.mp4">
+        </video>
+
+     <!-- heading text -->
+     <div class="container">
+        <div class="hero-text">
+            <h1>Experience <br>Salmon <br>Cookies</h1>
+                <a class="scroll-down">Scroll Down</a>
+         </div> <!-- end of hero-text -->
+     </div> <!-- end of container -->
+
+    </header>
+
+    <main>
+
+
+        <nav>
+            <img src="./img/salmon.png">
+            <ul>
+                
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+         </nav>
+
+
+
+         <form id="location-form">
+            <label for="location">Location:</label>
+            <input type="text" name="location" id="location">
+            <label for="avg-cookies">Average Cookies:</label>
+            <input type="number" id="avg-cookies" required step="0.1">
+            <button type="submit">Add Location</button>
+        </form>
+    
+ 
+        <div id="shop-location">
+
+
+        </div>
+
+    </main>
+
+    <footer>
+
+    </footer>
+</body>
+</html>

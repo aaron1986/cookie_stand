@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <script src="./app.js" defer></script>
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <video autoplay muted loop>
+            <source src="./vid/salmon.mp4">
+        </video>
+
+     <!-- heading text -->
+     <div class="container">
+        <div class="hero-text">
+            <h1>Experience <br>Salmon <br>Cookies</h1>
+                <a class="scroll-down">Scroll Down</a>
+         </div> <!-- end of hero-text -->
+     </div> <!-- end of container -->
+
+    </header>
+
+    <main>
+        
+        <h1>Sales Data Form</h1>
+        
+            <!-- User input form -->
+            <form id="cookiesShop">
+                <label for="location">Location:</label>
+                <input type="text" id="location" name="location" required><br><br>
+        
+                <label for="hour">Hour:</label>
+                <input type="number" id="hour" name="hour" min="6" max="19" required><br><br>
+        
+                <label for="cookiesSold">Cookies Sold:</label>
+                <input type="number" id="cookiesSold" name="cookiesSold" min="0" required><br><br>
+        
+                <input type="submit" value="Add to Table">
+            </form>
+        
+            <!-- Sales Data Table -->
+            <h2>Sales Data Table:</h2>
+            <table id="salesTable">
+                <thead>
+                    <tr>
+                        <th>Location</th>
+                        <th>Hour</th>
+                        <th>Cookies Sold</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                    <!-- Existing data rows will go here -->
+                </tbody>
+            </table>
+        
+            <h2>Shop Locations:</h2>
+            <div id="shop-location"></div>
+
+    <footer>
+
+    </footer>
+</body>
+</html>

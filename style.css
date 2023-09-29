@@ -1,0 +1,126 @@
+th:nth-child(even) {
+    background-color: aqua;
+}
+
+th:nth-child(odd) {
+    background-color: hotpink;
+}
+
+td {
+    background-color: rgb(152, 183, 240);
+}
+
+
+html, body {
+    display: block;
+    width: 100%;
+    height:100%;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    font-size: 15px;
+    font-family: "itc-avant-garde-gothic-pro", sans-serif;
+}
+
+
+
+video {
+    margin-top: -6%;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,.3);
+    z-index: 1;
+  }
+  
+
+
+/* start of hero text */
+
+.hero-text {
+    width: 100%;
+  margin-top:-25%;
+}
+
+
+h1 {
+    font-family: "heading-text";
+    font-weight: 400;
+  font-style: normal;
+  font-size: 90px;
+  color: #fff;
+  text-indent: -16px;
+    line-height: 78px;
+    margin-bottom: 19px;
+    text-align: center;
+    justify-content: center;
+   
+}
+
+@font-face {
+    font-family: 'heading-text';
+    src: url('./fonts/GarineldoNo02.otf');
+}
+
+.scroll-down {
+    font: 700 14px/22px "Montserrat",serif;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  bottom: 40px;
+  z-index: 2;
+  text-align: center;
+  position: absolute;
+}
+
+/* end of hero text */
+
+
+/* start of navigation */
+nav {
+    background-color: #3B4043;
+    height:55px;
+}
+ul {
+   display: flex;
+   justify-content: flex-end;
+}
+li {
+    display: inline;
+    margin-right: 3%;
+    margin-top: -5%;
+    font-family: "heading-text";
+    font-size: 32px;
+}
+
+li a {
+    color: #fff;
+    text-decoration: none;
+    list-style: none;
+}
+
+a:hover {
+    transition: opacity .55s .2s,top .55s;
+  opacity: .55;
+  top: -10px;
+  color: #d3b298;
+  border-top: 2px solid #d3b298;
+}
+
+img {
+    width: 45px;
+    height:55px;
+    margin-left:3%;
+}
+
+img:hover {
+	-webkit-filter: grayscale(100%) blur(3px);
+	filter: grayscale(100%) blur(3px);
+}
+
+
+
+
+
+
+

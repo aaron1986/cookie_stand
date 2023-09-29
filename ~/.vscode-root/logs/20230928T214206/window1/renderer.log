@@ -1,0 +1,12 @@
+2023-09-28 21:42:11.643 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-28 21:42:11.698 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-28 21:42:11.702 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-28 21:42:11.703 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-28 21:42:11.704 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-28 21:42:11.726 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-28 21:42:11.727 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-28 21:42:11.728 [error] [Extension Host] Failed to load message bundle for file /root/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.3/out/extension
+2023-09-28 21:42:19.217 [info] [perf] Render performance baseline is 60ms
+2023-09-28 21:42:56.182 [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (/snap/code/140/usr/share/code/resources/app/out/bootstrap.js:1:471)
+	at process.emit (node:events:513:28)

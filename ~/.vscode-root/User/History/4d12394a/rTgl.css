@@ -1,0 +1,11 @@
+th:nth-child(even) {
+    background-color: aqua;
+}
+
+th:nth-child(odd) {
+    background-color: hotpink;
+}
+
+td {
+    background-color: rgb(152, 183, 240);
+}

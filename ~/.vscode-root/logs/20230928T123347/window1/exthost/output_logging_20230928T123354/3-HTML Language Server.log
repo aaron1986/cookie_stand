@@ -1,0 +1,16 @@
+[Error - 12:42:13] Error while computing completions for file:///home/user/webpages_tech/cookie_stand/index.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/snap/code/140/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1289620)
+    at V (/snap/code/140/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:810785)
+    at j.computeCompletions (/snap/code/140/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:810062)
+    at Y.doComplete2 (/snap/code/140/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:811575)
+    at doComplete (/snap/code/140/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1386724)
+    at /snap/code/140/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1372801
+[Error - 12:42:16] Error while computing completions for file:///home/user/webpages_tech/cookie_stand/index.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/snap/code/140/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1289620)
+    at V (/snap/code/140/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:810785)
+    at j.computeCompletions (/snap/code/140/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:810062)
+    at Y.doComplete2 (/snap/code/140/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:811575)
+    at doComplete (/snap/code/140/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1386724)
+    at /snap/code/140/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1372801

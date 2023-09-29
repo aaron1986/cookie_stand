@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <script src="./app.js" defer></script>
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <video autoplay muted loop>
+            <source src="./vid/salmon.mp4">
+        </video>
+
+     <!-- heading text -->
+     <div class="container">
+        <div class="hero-text">
+            <h1>Experience <br>Salmon <br>Cookies</h1>
+                <a class="scroll-down">Scroll Down</a>
+         </div> <!-- end of hero-text -->
+     </div> <!-- end of container -->
+
+    </header>
+
+    <main>
+
+
+        <nav>
+            <img src="./img/salmon.png">
+            <ul>
+                
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+         </nav>
+
+         <!-- form to insert data into table -->
+
+         <div id="shop-location">
+
+
+         </div>
+         
+         <div class="container">
+        <form id="cookiesShop">
+            <label for="location">Location: </label>
+            <input type="text" id="location" name="location">
+
+            <label for="hour">Time of day</label>
+            <input type="number" id="hour" name="hour" min="6" max="19">
+
+            <label for="cookiesSold">Items Sold</label>
+            <input type="number" id="cookiesSold" name="cookiesSold" min="0">
+
+            <button>Submit</button>
+
+         </form>
+
+         <h2>
+            <table id="salesTable">
+                <tr>
+                    <th>Location</th>
+                    <th>Hour</th>
+                    <th>Cookies Sold</th>
+                </tr>
+            </table>
+         </h2>
+         </div>
+ 
+    
+
+    </main>
+
+    <footer>
+
+    </footer>
+</body>
+</html>
